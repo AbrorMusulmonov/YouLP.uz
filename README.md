@@ -1,2 +1,2 @@
-# YouLP.uz-ex-YLDP-
+# YouLP.uz
 YouLP.uz
